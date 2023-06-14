@@ -1,0 +1,48 @@
+<resources>
+<string name="find_a_majo">
+    Find a Major that fits your Passion !
+</string>
+    <string name="start_start">
+    Start started
+</string>
+    <string name="welcome">
+        WELCOME
+</string>
+    <string name="sign_in">Sign in</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="welcome_joh">
+Welcome,\nJohn Doe Sudirman !
+</string>
+    <string name="temukan_jur">
+Temukan jurusan impian anda !
+</string>
+    <string name="diskusi">Diskusi</string>
+    <string name="love">Love</string>
+    <string name="profil">Profil</string>
+    <string name="jurusan">Jurusan</string>
+    <string name="rekomendari">rekomendasi</string>
+    <string name="register">register</string>
+
+    <string name="app_name">Nama Aplikasi Anda</string>
+    <string name="title_activity_home">Judul Halaman Home</string>
+    <string name="title_activity_login">Judul Halaman Login</string>
+    <string name="title_activity_register">Judul Halaman Register</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="title_activity_major">MajorActivity</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_universitas">title_activity_universitas</string>
+    <string name="title_activity_besiswa">BesiswaActivity</string>
+
+
+</resources>
